@@ -1,6 +1,6 @@
 # Learning note for ceph
 
-##Core modules
+## Core modules
 ### librbd
 ### messager
 ### monitor
